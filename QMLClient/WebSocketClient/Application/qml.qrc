@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>TelemetryFrame.qml</file>
+        <file>Maps.qml</file>
+    </qresource>
+</RCC>
